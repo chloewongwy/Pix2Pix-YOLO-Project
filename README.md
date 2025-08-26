@@ -15,6 +15,8 @@ src/
 │    ├── test_image.png       # Example test input
 │── custom model train/       # Custom YOLO training files and configurations
 report.pdf                    # Detailed project report with methods and results
+.gitattributes                # Manage file types and behaviors in a Git repository
+CV_Project                    # Assignment specification
 ```
 
 ---
