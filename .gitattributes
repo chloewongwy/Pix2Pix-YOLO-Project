@@ -1,0 +1,2 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+src/custom[[:space:]]model[[:space:]]train/runs/detect/train6/weights/*.pt filter=lfs diff=lfs merge=lfs -text
