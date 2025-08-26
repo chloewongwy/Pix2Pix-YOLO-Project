@@ -95,5 +95,5 @@ jupyter notebook src/main.ipynb
 
 ## 📜 Acknowledgements
 
-- Dataset: [Cityscapes Dataset](https://www.cityscapes-dataset.com/)  
+- Dataset: [Cityscapes Dataset](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/)  
 ---
